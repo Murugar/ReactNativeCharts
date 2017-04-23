@@ -1,7 +1,7 @@
 {
   "name": "ReactNativeCharts",
   "version": "0.0.1",
-  "description": "Cross platform React Native charting library based on path-js and react-native-svg",
+  "description": "Cross platform React Native Charts",
   "repository": {
     "type": "git",
     "url": "https://test.com/react-native-pathjs-charts"
